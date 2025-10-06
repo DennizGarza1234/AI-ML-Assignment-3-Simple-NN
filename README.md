@@ -30,6 +30,9 @@ This project implements a simple Feedforward Neural Network (FNN) to classify ha
 2. Run the notebook `Digit_Dataset.ipynb` to train and evaluate the model.
 3. The trained model is saved as `mnist_fnn_model.h5`.
 
+## Youtube Link
+https://youtu.be/l745fHXg2fw
+
 Example evaluation code:
 ```python
 test_loss, test_acc = model.evaluate(x_test, y_test)
