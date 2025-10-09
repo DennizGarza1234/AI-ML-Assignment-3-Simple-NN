@@ -31,7 +31,7 @@ This project implements a simple Feedforward Neural Network (FNN) to classify ha
 3. The trained model is saved as `mnist_fnn_model.h5`.
 
 ## Youtube Link
-https://youtu.be/l745fHXg2fw
+https://youtu.be/akFDRec8VzA
 
 Example evaluation code:
 ```python
